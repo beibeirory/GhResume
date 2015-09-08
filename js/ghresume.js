@@ -15,7 +15,8 @@
   var name = url('?').replace(/^\/|\/$/g, '')
   // Default username
   if (name.length === 0)
-    name = 'hit9';
+    //name = 'hit9';
+    name = 'beibeirory';
   // Github url
   var guri = 'https://github.com/' + name;
 
